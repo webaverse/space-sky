@@ -1,4 +1,5 @@
 {
   "name": "twilight-sky",
+  "description": "space-sky",
   "start_url": "index.js"
 }
